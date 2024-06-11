@@ -1,1 +1,1 @@
-# email-signatures
+# HTML Signatures
